@@ -39,7 +39,7 @@
 		'category_level_none' => 'Yükseltme',
 		'change_email_link' => ' - ^1e-posta değiştir^2',
 		'change_password' => 'Şifreyi değiştir',
-		'confirm_complete' => 'Teşekkür ederiz',
+		'confirm_complete' => 'Teşekkür ederiz - e-posta adresiniz doğrulandı.',
 		'confirm_emailed' => 'Doğrulama linki e-posta adresinize gönderildi.Lütfen onu tıklayarak e-posta adresinizi doğrulayınız.',
 		'confirm_required' => 'Kaydınızın tamamlanması için lütfen size gönderdiğimiz doğrulama linkini tıklayınız, veya ^1başka tercih^2.',
 		'confirm_title' => 'E-posta Adres Doğrulama',
